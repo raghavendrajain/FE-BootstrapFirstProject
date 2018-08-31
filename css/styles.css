@@ -3,11 +3,21 @@
     padding: 0px auto;
 }
 
+.row-about{
+    border-bottom: 1px ridge;
+}
+
+.history-padding{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
 .row-content{
     margin: 0px auto;
-    padding: 50px 0px 50px 0px auto;
+    padding: 40px 0px 40px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px;
+    min-height: 200px;
 }
 
 .footer{
